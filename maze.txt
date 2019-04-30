@@ -1,0 +1,23 @@
+20 30
+0 18
+bbbbbbbbbbbbbbbbbb  b
+b             rrrr  b
+b rrrrr rrrr    rr  b
+b rrrrr rrrrrrr rr  b
+b rr         rr rr  b
+bwwwwwwwwwww rr     b
+b    rr      rrrrrrb
+b rr rr rrrrrrrrrrrb
+b rr rr rrr       rb
+b  r rr rrrrr  rr rb
+br r    r      rr rb
+br rrrrrr rrrrrrr rb
+b  rrrrrr rrrr    rb
+b         rrrr  rrrb
+br wwwwwwwwwww  rr  
+br        rr   rr  b
+brrrrrrr rr   rrr rb
+br        rr  rrr rb
+br rrrrrrrrrr     rb
+bbbbbbbbbbbbbbbbbbbb
+
